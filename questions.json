@@ -1,0 +1,1328 @@
+{
+  "games" : [
+    {
+      "questions" : [
+        {
+          "level": 1,
+          "question": "Czym Chińczycy tradycyjnie jadają potrawy z ryżu?",
+          "answers": [
+            "łyżkami",
+            "wykałaczkami",
+            "widelcami",
+            "pałeczkami"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 1,
+          "question": "Ile miesięcy liczy kwartał?",
+          "answers": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 1,
+          "question": "11 listopada to rocznica:",
+          "answers": [
+            "odzyskania niepodległości",
+            "wybuchu I wojny światowej",
+            "uchwalenia konstytucji",
+            "powstania listopadowego"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 1,
+          "question": "Woda to tlenek:",
+          "answers": [
+            "węgla",
+            "srebra",
+            "żelaza",
+            "wodoru"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 1,
+          "question": "Ile liter to miejsce, w którym plecy tracą szlachetną nazwę?",
+          "answers": [
+            "trzy",
+            "cztery",
+            "pięć",
+            "sześć"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 1,
+          "question": "Co mają wspólnego kostka do gry i pierścionek?",
+          "answers": [
+            "usteczka",
+            "nosek",
+            "oczko",
+            "uszko"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 1,
+          "question": "Zwyczajowy środek transportu wiedźmy to: ",
+          "answers": [
+            "trzepaczka do dywanów",
+            "odkurzacz",
+            "mop sznurkowy",
+            "miotła"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 1,
+          "question": "Ile kropek dadzą nam średnik, kropka, dwukropek i wielokropek?",
+          "answers": [
+            "pięć",
+            "sześć",
+            "siedem",
+            "osiem"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 1,
+          "question": "Stetoskop, otoskop, ciśnieniomierz - czyja to torba?",
+          "answers": [
+            "hydraulika",
+            "lekarza",
+            "mechanika",
+            "elektryka"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 1,
+          "question": "Co zazwyczaj pokrywa się papą?",
+          "answers": [
+            "twarz",
+            "karoserię",
+            "dachy",
+            "kanapy"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 2,
+          "question": "Który to tzw. Stary Kontynent?",
+          "answers": [
+            "Europa",
+            "Afryka",
+            "Azja",
+            "Australia"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 2,
+          "question": "Gremialny przejazd rowerzystów przez miasto to tak zwana:",
+          "answers": [
+            "waga ciężka",
+            "masa krytyczna",
+            "gromada sceptyczna",
+            "chmara kryzysowa"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 2,
+          "question": "Zgodnie z prawem o ruchu drogowym wymijamy pojazdy:",
+          "answers": [
+            "jadące w tym kierunku, co my",
+            "stojące",
+            "nadjeżdżające z przeciwka",
+            "na rondzie"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 2,
+          "question": "Po jakiemu siedzimy w siadzie skrzyżnym?",
+          "answers": [
+            "po japońsku",
+            "po chińsku",
+            "po węgiersku",
+            "po turecku"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 2,
+          "question": "Hipisi to inaczej dzieci:",
+          "answers": [
+            "Jadwisi",
+            "kadeci",
+            "kwiaty",
+            "śmieci"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 2,
+          "question": "Co leczy się kanałowo?",
+          "answers": [
+            "uszy",
+            "zęby",
+            "tętnice",
+            "jelito grube"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 2,
+          "question": "Co paker wyrzeźbił tam, gdzie tłuścioch wyhodował oponkę?",
+          "answers": [
+            "koksownik",
+            "kaloryfer",
+            "bojler",
+            "rożen"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 2,
+          "question": "Suspens to chwyt stosowany:",
+          "answers": [
+            "w zapasach",
+            "w grze na gitarze",
+            "we wspinaczce klasycznej",
+            "w filmach"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 2,
+          "question": "Jedna osoba w zupełności wystarczy do:",
+          "answers": [
+            "pokera",
+            "kanasty",
+            "kierek",
+            "pasjansa"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 2,
+          "question": "Kto w wierszu Juliana Tuwima przedstawia się Tobiasz Bimbalski?",
+          "answers": [
+            "leń z kanapy",
+            "kłamczuch, co się zowie",
+            "zapominalski słoń",
+            "dziadek, ten od rzepki"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 3,
+          "question": "Co odkłada skiby?",
+          "answers": [
+            "Big Cyc",
+            "bobslej",
+            "pług",
+            "siekiera"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 3,
+          "question": "W którym trójkącie w tajemniczych okolicznościach miały znikać samoloty i statki?",
+          "answers": [
+            "w Weimarskim",
+            "w Kaliningradzkim",
+            "w Bermudzkim",
+            "w Wyszehradzkim"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 3,
+          "question": "Sneakersy nosimy:",
+          "answers": [
+            "na nogach",
+            "opuszczone na biodra",
+            "na bakier",
+            "na nosie"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 3,
+          "question": "Jakiego koloru czapkę ma policjant kierujący ruchem?",
+          "answers": [
+            "granatowego",
+            "białego",
+            "czarnego",
+            "czerwonego"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 3,
+          "question": "Znak paragrafu przypomina połączone dwie litery. Jakie?",
+          "answers": [
+            "S",
+            "P",
+            "A i G",
+            "P i S"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 3,
+          "question": "Jest przysłowie, że tego bieda nie ubodzie, kto:",
+          "answers": [
+            "się pławi w ciekłym miodzie",
+            "i posłuch ma w narodzie",
+            "zagra choć w epizodzie",
+            "ma księdza w rodzie"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 3,
+          "question": "Którzy to ci w kaskach?",
+          "answers": [
+            "szczypiorniści",
+            "biathloniści",
+            "hokeiści",
+            "tenisiści"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 3,
+          "question": "Która z głosek w jodłowaniu brzmi niezwykle donośnie i wysoko?",
+          "answers": [
+            "k",
+            "h",
+            "l",
+            "i"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 3,
+          "question": "Żółta kartka, którą piłkarski sędzie pokazuje zawodnikowi, to:",
+          "answers": [
+            "pochwała",
+            "wykluczenie z gry",
+            "ostrzeżenie",
+            "zmiana zawodnika"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 3,
+          "question": "Do jakich zwierząt porównywane są ofiary medycyny estetycznej i kompleksu za małych ust?",
+          "answers": [
+            "do mrówkojadów",
+            "do glonojadów",
+            "do osłomułów",
+            "do dżdżownic"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 4,
+          "question": "W celu ustalenia wieku szczątków organicznych w archeologii stosuje się izotop:",
+          "answers": [
+            "azotu",
+            "potasu",
+            "wodoru",
+            "węgla"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 4,
+          "question": "Co z kwasami tworzy sole?",
+          "answers": [
+            "doktryny",
+            "zasady",
+            "dogmaty",
+            "formuły"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 4,
+          "question": "Amerykańskie badania, dążące do stworzenia bomby atomowej, znane były jako projekt:",
+          "answers": [
+            "Manhattan",
+            "Bronx",
+            "Brooklyn",
+            "Queens"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 4,
+          "question": "Która z nazw kolorów pochodzi od nazwy miasta?",
+          "answers": [
+            "oranżowy",
+            "srebrny",
+            "czerwony",
+            "bordowy"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 4,
+          "question": "Który dokument bywa nazywany lejcami?",
+          "answers": [
+            "dowód osobisty",
+            "paszport",
+            "prawo jazdy",
+            "legitymacja szkolna"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 4,
+          "question": "Który z Bitelsów urodził się jako Richard Starkey?",
+          "answers": [
+            "John Lennon",
+            "Ringo Starr",
+            "Paul McCartney",
+            "George Harrison"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 4,
+          "question": "Dyscyplina sportu, w której podczas igrzysk olimpijskich rywalizują wyłącznie kobiety, to:",
+          "answers": [
+            "żeglarstwo",
+            "pływanie synchroniczne",
+            "wioślarstwo",
+            "piłka wodna"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 4,
+          "question": "Które z zębów mlecznych wyrzynają się zwykle u człowieka jako pierwsze?",
+          "answers": [
+            "górne pierwsze trzonowce",
+            "dolne pierwsze siekacze",
+            "dolne kły",
+            "górne drugie trzonowce"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 4,
+          "question": "Fidget spinner:",
+          "answers": [
+            "powtarza dźwięki",
+            "obraca się",
+            "rozciąga się",
+            "skacze jak żaba"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 4,
+          "question": "Który to zadufany w sobie ignorant z piwnym brzuchem i reklamówką z dyskontu?",
+          "answers": [
+            "Janusz",
+            "Igor",
+            "Jan",
+            "Ryszard"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 5,
+          "question": "Stańczyk był nadwornym błaznem ostatnich:",
+          "answers": [
+            "Piastów",
+            "Jagiellonów",
+            "Wazów",
+            "władców elekcyjnych"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 5,
+          "question": "Szachista zaczyna grę z szesnastoma bierkami. Ile ma figur?",
+          "answers": [
+            "cztery",
+            "osiem",
+            "szesnaście",
+            "trzydzieści dwa"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 5,
+          "question": "Smuga kondensacyjna ciągnie się za:",
+          "answers": [
+            "zachodzącym słońcem",
+            "lecącym samolotem",
+            "zniesławionym politykiem",
+            "wyperfumowaną damą"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 5,
+          "question": "Co nie złagodzi pieczenia po zjedzeniu papryczki chili?",
+          "answers": [
+            "lody",
+            "szklanka mleka",
+            "jogurt",
+            "szklanka wody"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 5,
+          "question": "Płyty chodnika wzdłuż Hollywood Boulevard zdobią:",
+          "answers": [
+            "statuetki Oscara",
+            "złote maski",
+            "fotografie",
+            "pięcioramienne gwiazdy"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 5,
+          "question": "Hole in one to marzenie każdego:",
+          "answers": [
+            "siatkarza",
+            "golfisty",
+            "koszykarza",
+            "hokeisty"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 5,
+          "question": "Które z wydarzeń ukazuje XIV stacja drogi krzyżowej Jezusa?",
+          "answers": [
+            "przybicie go do krzyża",
+            "złożenie go do grobu",
+            "upadek pod krzyżem",
+            "skazanie go na śmierć"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 5,
+          "question": "Kolumna MacPhersona to:",
+          "answers": [
+            "typ zawieszenia samochodu",
+            "pomnik w Londynie",
+            "szyk bojowy piechoty",
+            "część kręgosłupa"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 5,
+          "question": "Dziś Burkina Faso, do 1984 roku:",
+          "answers": [
+            "Górna Wolta",
+            "Biała Wolta",
+            "Czarna Wolta",
+            "Czerwona Wolta"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 5,
+          "question": "Co opalamy do rosołu dla wyraźniejszego smaku i koloru?",
+          "answers": [
+            "marchew",
+            "pora",
+            "selera",
+            "cebulę"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 6,
+          "question": "Kora którego drzewa jest naturalnym źródłem salicyny, substancji o silnym działaniu przeciwzapalnym?",
+          "answers": [
+            "akacji",
+            "wierzby",
+            "brzozy",
+            "buka"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 6,
+          "question": "Z którym z kabaretów związany jest zespół muzyczny Żarówki?",
+          "answers": [
+            "z Jurkami",
+            "z Łowcami.B",
+            "z Neo-Nówką",
+            "z kabaretem Limo"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 6,
+          "question": "Wykonawca przeboju o pszczółce Mai w innej piosence zaprasza do:",
+          "answers": [
+            "Chałup",
+            "Rowów",
+            "Zgonu",
+            "Chłopów"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 6,
+          "question": "Jakiego znaku żeglugowego nie ma?",
+          "answers": [
+            "zakazu wytwarzania fali",
+            "nakazu wytwarzania fali",
+            "zakazu wyprzedzania",
+            "znaku ograniczona głębokość"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 6,
+          "question": "Jakie zwierzęta podnieca zapach kozłka lekarskiego?",
+          "answers": [
+            "konie",
+            "koty",
+            "kozy",
+            "kobry"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 6,
+          "question": "Co koń ma w pysku?",
+          "answers": [
+            "popręg",
+            "wędzidło",
+            "tybinkę",
+            "czaprak"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 6,
+          "question": "Trójkątny żagiel o bardzo dużym wybrzuszeniu, rozpinany na jachtach zamiast foka, to:",
+          "answers": [
+            "bolonia",
+            "genua",
+            "modena",
+            "siena"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 6,
+          "question": "Nie jest metalem:",
+          "answers": [
+            "sód",
+            "potas",
+            "wapń",
+            "siarka"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 6,
+          "question": "Instrument między ciosami to:",
+          "answers": [
+            "bęben",
+            "trąba",
+            "organki",
+            "harfa"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 6,
+          "question": "Która część ciała Abrahama to miejsce dla umarlaków?",
+          "answers": [
+            "łono",
+            "serce",
+            "pierś",
+            "otwarte ramiona"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 7,
+          "question": "Która to władza sądownicza?",
+          "answers": [
+            "legislatywa",
+            "egzekutywa",
+            "judykatywa",
+            "media"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 7,
+          "question": "Które dwa kraje spierają się o pochodzenie frytek?",
+          "answers": [
+            "Francja i Belgia",
+            "Luksemburg i Holandia",
+            "Niemcy i Francja",
+            "Czechy i Słowacja"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 7,
+          "question": "Które zwierzę nie ma linii bocznej?",
+          "answers": [
+            "certa",
+            "miedzianka",
+            "jaź",
+            "jelec"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 7,
+          "question": "Jak nazywa się zespół utworzony przez radiowców?",
+          "answers": [
+            "Porażeni Prądem Jeden",
+            "Popaprani Smarem Dwa",
+            "Poparzeni Kawą Trzy",
+            "Potargani Wiatrem Cztery"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 7,
+          "question": "Ile razy w ciągu godziny wskazówka sekundowa zatrzymuje się na dwunastce?",
+          "answers": [
+            "24",
+            "60",
+            "3600",
+            "43200"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 7,
+          "question": "Czego nie noszą karmelici bosi, zakon powstały wskutek reformy rozpoczętej w 1580 r. przez św. Teresę z Avili i św. Jana od Krzyża?",
+          "answers": [
+            "brązowego szkaplerza",
+            "różańca",
+            "czarnej sutanny",
+            "trzewików"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 7,
+          "question": "Koszykarze podali swój wzrost w różnych jednostkach. Najwyższy z nich jest ten, który mierzy:",
+          "answers": [
+            "195 centymetrów",
+            "2 metry",
+            "7 stóp",
+            "80 cali"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 7,
+          "question": "Matce tych bliźniąt odebrano życie, a je same kat spławił Tybrem w koszyku. O kim mowa?",
+          "answers": [
+            "o Artemidzie i Apollu",
+            "o Kastorze i Polluksie",
+            "o Lelu i Polel",
+            "o Romulusie i Remusie"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 7,
+          "question": "Które ze zwierząt symbolizuje wzrost wartości akcji na giełdzie?",
+          "answers": [
+            "lis",
+            "lew",
+            "niedźwiedź",
+            "byk"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 7,
+          "question": "Jak nazywa się ślubna suknia, która od góry do połowy uda opina sylwetkę, a dalej rozszerza się ku dołowi?",
+          "answers": [
+            "trąbka",
+            "puzon",
+            "saksofon",
+            "obój"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 8,
+          "question": "Jakie miasta łączy najwyżej położona linia kolejowa na świecie?",
+          "answers": [
+            "Moskwę z Władywostokiem",
+            "Antofagastę z Saltą",
+            "Limę z La Oroyą",
+            "Xining z Lhasą"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 8,
+          "question": "Kogo Andrzej Milczanowski w 1995 r. oskarżył z trybuny sejmowej o współpracę z rezydentami KGB w Polsce?",
+          "answers": [
+            "urzędującego premiera",
+            "byłego prezydenta",
+            "ministra spraw zagranicznych",
+            "ministra edukacji narodowej"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 8,
+          "question": "Jaka figura, ułatwiająca rozpoznanie nominału dotykiem, jest na banknocie z Kazimierzem III Wielkim?",
+          "answers": [
+            "okrąg",
+            "kwadrat",
+            "romb",
+            "trójkąt"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 8,
+          "question": "Do czego przygotowuje się katechumen?",
+          "answers": [
+            "do przyjęcia chrztu",
+            "do pierwszej komunii",
+            "do bierzmowania",
+            "do kapłaństwa"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 8,
+          "question": "Gdzie montowane są poduszki powietrzne dla pieszych?",
+          "answers": [
+            "na zebrach",
+            "w krawężnikach",
+            "pod maską auta",
+            "w zderzakach"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 8,
+          "question": "Pacyfa to umieszczone w kole dwie litery z alfabetu semaforowego. Które?",
+          "answers": [
+            "M i L jak make love",
+            "N i W jak not war",
+            "N i D jak nuclear disarmament",
+            "A i P jak all people"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 8,
+          "question": "Termin sharenting jest ściśle związany:",
+          "answers": [
+            "z motoryzacją",
+            "z hazardem online",
+            "z dziećmi",
+            "ze sportem wyczynowym"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 8,
+          "question": "Które z wymienionych publicysta i podróżnik Wojciech Cejrowski oddałby Niemcom, argumentując, że to nie jest polskie miasto?",
+          "answers": [
+            "Opole",
+            "Szczecin",
+            "Wrocław",
+            "Gdańsk"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 8,
+          "question": "Mercato w Addis Abebie to największy w Afryce:",
+          "answers": [
+            "teatr operowy",
+            "tor wyścigów konnych",
+            "targ pod gołym niebem",
+            "stadion sportowy"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 8,
+          "question": "W jakim mieście zobaczymy wspólne dzieło Jana Styki i Wojciecha Kossaka długie na 114 metrów, a szerokie na 15?",
+          "answers": [
+            "we Lwowie",
+            "we Wrocławiu",
+            "w Krakowie",
+            "w Warszawie"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 9,
+          "question": "Który z polskich raperów zadebiutował w 2016 roku jako zawodnik KSW?",
+          "answers": [
+            "Tede",
+            "Peja",
+            "Popek",
+            "Liroy"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 9,
+          "question": "Który artysta mówił o sobie, że poza zębami wszystko jest w nim idealne?",
+          "answers": [
+            "Pablo Picasso",
+            "Freddie Mercury",
+            "John Lennon",
+            "Salvador Dali"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 9,
+          "question": "Co waporyzuje się za pomocą lasera?",
+          "answers": [
+            "marihuanę w fifce",
+            "fumy i spazmy",
+            "męty w szklistce oka",
+            "dokumenty w kopiarce"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 9,
+          "question": "Gigantyczne schody w Odessie zawdzięczają swą nazwę pancernikowi:",
+          "answers": [
+            "Potiomkin",
+            "Pietropawłowsk",
+            "Sewastopol",
+            "Połtawa"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 9,
+          "question": "Która kasza to remedium na chorobę trzewną?",
+          "answers": [
+            "gryczana",
+            "bulgur",
+            "kuskus",
+            "manna"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 9,
+          "question": "Pod siedzibą ONZ w Nowym Jorku atletyczny mężczyzna na cokole przekuwa:",
+          "answers": [
+            "podkowy na bagnety",
+            "widły na igły",
+            "słowa na czyny",
+            "miecze na lemiesze"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 9,
+          "question": "Gdzie najprędzej ujrzymy widmo Brockenu?",
+          "answers": [
+            "w górach",
+            "na cmentarzu",
+            "u wróżki",
+            "pod wodą"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 9,
+          "question": "Co jest niezbędne do luzowania kaczki?",
+          "answers": [
+            "2 metry sznura",
+            "ostry nóż",
+            "wabik na ptaki",
+            "przestronna woliera"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 9,
+          "question": "Góral w krzesanym krzesze, czyli obija:",
+          "answers": [
+            "ciupagę ciupagą",
+            "partnerkę kijem",
+            "nogę nogą",
+            "gwoździami boazerię"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 9,
+          "question": "W jaki sposób derwisz oddaje się modlitwie?",
+          "answers": [
+            "medytuje, leżąc",
+            "składa ofiarę z kurczaka",
+            "biczuje się",
+            "wiruje w tańcu"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 10,
+          "question": "Wulkanizacja to proces przekształcania:",
+          "answers": [
+            "lawy w porfir",
+            "dętek w opony",
+            "wygasłych wulkanów w czynne",
+            "kauczuków w gumę"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 10,
+          "question": "Co przesądza o danej fryzurze, że jest ombre lub sombre?",
+          "answers": [
+            "silne degażowanie",
+            "wygolone boki",
+            "sposób farbowania",
+            "burza loków"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 10,
+          "question": "Dwuliterowy skrót angielskiej nazwy płyty kompaktowej to w rzymskim zapisie liczb liczba:",
+          "answers": [
+            "100",
+            "200",
+            "300",
+            "400"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 10,
+          "question": "Które zwierzęta kopulują w pozycji: samica kładzie się na brzuchu, a samiec siada za nią? ",
+          "answers": [
+            "wielbłądy",
+            "żyrafy",
+            "psy dingo",
+            "konie"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 10,
+          "question": "Gdzie produkowano auto, o którym żartowano, że blacharkę do niego kupi się w sklepie papierniczym?",
+          "answers": [
+            "w RFN",
+            "w NRD",
+            "w Czechach",
+            "w Polsce"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 10,
+          "question": "Który z gryzoni jest najczęstszym bohaterem prac Banksy'ego?",
+          "answers": [
+            "chomik",
+            "wiewiórka",
+            "szczur",
+            "bóbr"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 10,
+          "question": "Jakiego koloru kwiaty mają róże odmiany Alba?",
+          "answers": [
+            "czerwonego",
+            "fioletowego",
+            "białego",
+            "pomarańczowego"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 10,
+          "question": "O murach obronnych którego miasta śpiewał Jacques Brel?",
+          "answers": [
+            "Ogordzieńca",
+            "Malborka",
+            "Ujazdu",
+            "Warszawy"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 10,
+          "question": "Co bada i mierzy areometr Richtera?",
+          "answers": [
+            "skład powietrza w kalderze",
+            "aktywność sejsmiczną Ziemi",
+            "wyrazistość poglądów",
+            "zawartość alkoholu w cieczy"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 10,
+          "question": "Kto w 1918 r. opisał, jak zbudować etereoplan, pojazd międzyplanetarny, którym da się wynieść w kosmos ludzi?",
+          "answers": [
+            "Stanisław Wigura",
+            "Czesław Tański",
+            "Maksymilian Kolbe",
+            "Karol Wojtyła"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 11,
+          "question": "Kto jako pierwszy skonstruował i oblatał pasażerski samolot ponaddźwiękowy?",
+          "answers": [
+            "Amerykanie",
+            "Francuzi i Anglicy",
+            "Rosjanie",
+            "Holendrzy i Belgowie"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 11,
+          "question": "Czego się nie laminuje?",
+          "answers": [
+            "szkła ",
+            "papieru",
+            "rzęs",
+            "azotu"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 11,
+          "question": "Jakie ziarna z orzełkiem w koronie wysypiemy jesienią ze strąka?",
+          "answers": [
+            "bób",
+            "soczewicę",
+            "groch",
+            "fasolę"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 11,
+          "question": "Ile centymetrów ma zwykle taśma używana przez krawców do zdejmowania miary?",
+          "answers": [
+            "110",
+            "150",
+            "220",
+            "250"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 11,
+          "question": "Szyjki rakowe to mięso raka. Z którego jego części?",
+          "answers": [
+            "z głowy",
+            "ze szczypiec",
+            "z tylnych odnóży",
+            "z odwłoka"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 11,
+          "question": "Gdzie 22 września 2014 r. rozpoczęły się demonstracje nazwane później rewolucją parasolek?",
+          "answers": [
+            "w Paryżu",
+            "w Hongkongu",
+            "w Warszawie",
+            "w Pradze"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 11,
+          "question": "Który z filmowych psich bohaterów w 2017 roku skończył 50 lat?",
+          "answers": [
+            "Reksio",
+            "Piorun",
+            "Beethoven",
+            "Lassie"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 11,
+          "question": "Trzech z tych kompozytorów urodziło się w 1685 r, a jeden w 1770. Który?",
+          "answers": [
+            "Georg Friedrich Haendel",
+            "Johann Sebastian Bach",
+            "Ludwig van Beethoven",
+            "Domenico Scarlatti"
+          ],
+          "correct": 2
+        },
+        {
+          "level": 11,
+          "question": "Któremu zjawisku optycznemu nazwy użyczyła wróżka Morgana le Fay z legendy o królu Arturze?",
+          "answers": [
+            "zorzy polarnej",
+            "tęczy",
+            "halo",
+            "mirażowi"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 11,
+          "question": "Z czego w głównej mierze zrobione są tak zwane monety bulionowe?",
+          "answers": [
+            "z pasty rosołowe",
+            "ze zrolowanego mięsa",
+            "z miedzi",
+            "ze złota"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 12,
+          "question": "Co wywołuje kiłę?",
+          "answers": [
+            "pałeczka",
+            "laseczka",
+            "prątek",
+            "krętek"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 12,
+          "question": "Równoleżnik oddalony od równika o przeszło 66 stopni na północ to:",
+          "answers": [
+            "koło podbiegunowe północne",
+            "biegun północny",
+            "zwrotnik Raka",
+            "zwrotnik Koziorożca"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 12,
+          "question": "Z którym z kwiatów najczęściej portretowano Mikołaja Kopernika?",
+          "answers": [
+            "z lilią",
+            "z szarotką",
+            "z mniszkiem lekarskim",
+            "z konwalią"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 12,
+          "question": "Ile palców u jednej kończyny ma koń?",
+          "answers": [
+            "jeden",
+            "dwa",
+            "trzy",
+            "cztery"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 12,
+          "question": "Każda barwa składowa światła białego rozchodzi się w ciałach przezroczystych z inną prędkością. Największą prędkość ma:",
+          "answers": [
+            "czerwona",
+            "pomarańczowa",
+            "żółta",
+            "fioletowa"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 12,
+          "question": "Na paryskim Łuku Triumfalnym, na pamiątkę napoleońskich zwycięstw, wyryte są nazwy pięciu polskich miast. Nie ma wśród nich:",
+          "answers": [
+            "Warszawy",
+            "Wrocławia",
+            "Gdańska",
+            "Ostrołęki"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 12,
+          "question": "Na który stopień mianuje Prezydent na wniosek Ministra Obrony Narodowej?",
+          "answers": [
+            "podporucznika",
+            "kapitana",
+            "majora",
+            "pułkownika"
+          ],
+          "correct": 0
+        },
+        {
+          "level": 12,
+          "question": "Manat karaibski, tak jak afrykański, z kończyn ma tylko przednie. A manat azerbejdżański, tak jak turkmeński:",
+          "answers": [
+            "ma i przednie, i tylne",
+            "zastąpił rubla",
+            "zakrywa całe ciało",
+            "jest samotnikiem"
+          ],
+          "correct": 1
+        },
+        {
+          "level": 12,
+          "question": "W skład czego nie wchodzą skleroproteiny?",
+          "answers": [
+            "szkieletu",
+            "paznokci",
+            "jedwabiu naturalnego",
+            "krwi"
+          ],
+          "correct": 3
+        },
+        {
+          "level": 12,
+          "question": "Fuga dysocjacyjna to:",
+          "answers": [
+            "cześć sonaty",
+            "szczelina dylatacyjna",
+            "faza rozpadu jonów",
+            "zaburzenie nerwicowe"
+          ],
+          "correct": 3
+        }
+      ]
+    }
+  ]
+}
