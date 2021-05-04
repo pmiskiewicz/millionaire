@@ -2,7 +2,7 @@ require 'json'
 
 LOWER_CASE_MIN = 97
 
-file_location = "questions.json"
+file_location = "../questions.json"
 content = File.read(file_location)
 data = JSON.parse(content)
 
