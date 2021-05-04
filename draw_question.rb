@@ -1,11 +1,12 @@
 require 'json'
 
+LOWER_CASE_MIN = 97
+
 file_location = "questions.json"
 content = File.read(file_location)
+data = JSON.parse(content)
 
-def draw_question(content)
-  data = JSON.parse(content)
-
+def draw_question(data)
   draw = data["questions"].sample
   question = draw["question"]
   answers = draw["answers"]
@@ -16,11 +17,11 @@ def draw_question(content)
   return {question: question, answers: answers, good_answer: good_answer, level: level, options: options}
 end
 
-result = draw_question(content)
+result = draw_question(data)
 
 def check_answer(good_answer)
   your_answer = gets
-  puts your_answer.downcase.ord - 97 == good_answer ? "Dobrze!!!" : "Niestety, prawidłowa odpowiedź to #{(good_answer + 97).chr.upcase}"
+  puts your_answer.downcase.ord - LOWER_CASE_MIN == good_answer ? "Dobrze!!!" : "Niestety, prawidłowa odpowiedź to #{(good_answer + LOWER_CASE_MIN).chr.upcase}"
 end
 
 puts "\nPoziom #{result[:level]}: #{result[:question]}" 
